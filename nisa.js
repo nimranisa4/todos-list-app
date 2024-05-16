@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 //================== array =============================
 // let fruitchat = ["banana", "orange", "apple","mango"];
 // console.log(fruitchat);
